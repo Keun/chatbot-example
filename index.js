@@ -19,6 +19,6 @@ app.listen(PORT, () => {
   console.log(`Our app is running on port ${ PORT }`);
 });
 
-http.listen(PORT, function(){
-  console.log('listening on *:' + PORT );
-});
+// http.listen(PORT, function(){
+//   console.log('listening on *:' + PORT );
+// });
